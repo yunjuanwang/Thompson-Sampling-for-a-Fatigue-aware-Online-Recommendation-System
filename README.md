@@ -11,7 +11,7 @@
 
 * Thompsonbasedpy.py: This code provides function thompson\_base that we implement algorithm 1.
 
-* TSgaussian.py: This code provides function TSgaussian\_base that we implement algorithm 1.
+* TSgaussian.py: This code provides function TSgaussian\_base that we implement algorithm 2.
 
 * UCBV.py: This code provides function ucbv that we implement algorithm 3.
 
